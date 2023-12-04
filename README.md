@@ -1,4 +1,4 @@
-# :octocat:AtliQ_Sales_Analysis_Reports
+# :octocat:AtliQ_Analysis_Reports
 
  Generate reports that provide answers to the following business inquiries:
  - What are the _[top 10 products](https://github.com/tyagi-mansi11/AtliQ_Sales_Analysis/blob/9e5d84fab405ca8ea36a8a545c4b69ff33de9e55/Top%2010%20Products.pdf)_ based on the percentage increase in their net sales from 2020 to 2021?
