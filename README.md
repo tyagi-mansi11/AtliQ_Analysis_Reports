@@ -1,15 +1,15 @@
 # :octocat:AtliQ_Sales_Analysis_Reports
 
  Generate reports that provide answers to the following business inquiries:
- - What are the top 10 products based on the percentage increase in their net sales from 2020 to 2021?
+ - What are the _[top 10 products](https://github.com/tyagi-mansi11/AtliQ_Sales_Analysis/blob/9e5d84fab405ca8ea36a8a545c4b69ff33de9e55/Top%2010%20Products.pdf)_ based on the percentage increase in their net sales from 2020 to 2021?
 
-- Generate a "Division" report to present the net sales data for 2020 and 2021 and the growth percentage.
+- Generate a _[Division](https://github.com/tyagi-mansi11/AtliQ_Sales_Analysis/blob/9e5d84fab405ca8ea36a8a545c4b69ff33de9e55/Division.pdf)_ report to present the net sales data for 2020 and 2021 and the growth percentage.
 
-- Which products are ranked in the top 5 and bottom 5 regarding quantity sold?
+- Which products are ranked in the _[top 5 and bottom 5](https://github.com/tyagi-mansi11/AtliQ_Sales_Analysis/blob/9e5d84fab405ca8ea36a8a545c4b69ff33de9e55/Top%20and%20Bottom%20Products.pdf)_ regarding quantity sold?
 
-- What are the new products that Atliq began selling in 2021?
+- What are the _[new products](https://github.com/tyagi-mansi11/AtliQ_Sales_Analysis/blob/9e5d84fab405ca8ea36a8a545c4b69ff33de9e55/New%20Products%202021.pdf)_ that Atliq began selling in 2021?
 
-- What are the top 5 countries in terms of net sales in 2021?
+- What are the _[top 5 countries](https://github.com/tyagi-mansi11/AtliQ_Sales_Analysis/blob/9e5d84fab405ca8ea36a8a545c4b69ff33de9e55/Top%205%20Countries.pdf)_ in terms of net sales in 2021?
 
 
 ## Objective
